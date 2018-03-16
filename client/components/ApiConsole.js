@@ -1,4 +1,4 @@
-import React, { Component} from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 import { Layout, Stack, Card, TextField, Button } from '@shopify/polaris';
